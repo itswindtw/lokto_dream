@@ -1,0 +1,9 @@
+(lang dune 3.22)
+
+(name 2-middleware)
+
+(package
+ (name 2-middleware)
+ (depends
+  ocaml
+  lokto_dream))

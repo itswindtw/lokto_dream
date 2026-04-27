@@ -1,0 +1,9 @@
+(lang dune 3.22)
+
+(name 6-echo)
+
+(package
+ (name 6-echo)
+ (depends
+  ocaml
+  lokto_dream))

@@ -1,0 +1,9 @@
+(lang dune 3.22)
+
+(name 5-promise)
+
+(package
+ (name 5-promise)
+ (depends
+  ocaml
+  lokto_dream))

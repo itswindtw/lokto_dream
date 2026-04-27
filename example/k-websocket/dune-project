@@ -1,0 +1,9 @@
+(lang dune 3.22)
+
+(name k-websocket)
+
+(package
+ (name k-websocket)
+ (depends
+  ocaml
+  lokto_dream))

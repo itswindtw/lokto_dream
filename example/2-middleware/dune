@@ -1,0 +1,4 @@
+(executable
+ (name middleware)
+ (public_name middleware)
+ (libraries lokto_dream))

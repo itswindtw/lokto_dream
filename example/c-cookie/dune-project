@@ -1,0 +1,9 @@
+(lang dune 3.22)
+
+(name c-cookie)
+
+(package
+ (name c-cookie)
+ (depends
+  ocaml
+  lokto_dream))

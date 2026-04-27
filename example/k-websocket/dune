@@ -1,0 +1,4 @@
+(executable
+ (name websocket)
+ (public_name websocket)
+ (libraries lokto_dream))

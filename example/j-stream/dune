@@ -1,0 +1,4 @@
+(executable
+ (name stream)
+ (public_name stream)
+ (libraries lokto_dream))

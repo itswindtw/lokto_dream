@@ -1,0 +1,4 @@
+(executable
+ (name cookie)
+ (public_name cookie)
+ (libraries lokto_dream))

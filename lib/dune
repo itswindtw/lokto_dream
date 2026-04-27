@@ -1,0 +1,16 @@
+(library
+ (name lokto_dream)
+ (public_name lokto_dream)
+ (libraries
+  miou
+  miou.unix
+  h1
+  logs
+  logs.fmt
+  ptime
+  ptime.clock
+  hmap
+  uri
+  mirage-crypto-rng-miou-unix
+  lokto_xchacha20
+  yojson))

@@ -1,0 +1,4 @@
+(executable
+ (name session)
+ (public_name session)
+ (libraries lokto_dream))

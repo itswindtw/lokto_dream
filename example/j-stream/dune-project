@@ -1,0 +1,9 @@
+(lang dune 3.22)
+
+(name j-stream)
+
+(package
+ (name j-stream)
+ (depends
+  ocaml
+  lokto_dream))

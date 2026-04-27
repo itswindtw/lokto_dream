@@ -1,0 +1,9 @@
+(executable
+ (name lokto_dream_bench)
+ (public_name lokto_dream_bench)
+ (libraries lokto_dream))
+
+(executable
+ (name dream_bench)
+ (public_name dream_bench)
+ (libraries dream))

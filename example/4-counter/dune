@@ -1,0 +1,4 @@
+(executable
+ (name counter)
+ (public_name counter)
+ (libraries lokto_dream))

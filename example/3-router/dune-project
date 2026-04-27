@@ -1,0 +1,9 @@
+(lang dune 3.22)
+
+(name 3-router)
+
+(package
+ (name 3-router)
+ (depends
+  ocaml
+  lokto_dream))

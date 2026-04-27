@@ -1,0 +1,9 @@
+(lang dune 3.22)
+
+(name 1-hello)
+
+(package
+ (name 1-hello)
+ (depends
+  ocaml
+  lokto_dream))

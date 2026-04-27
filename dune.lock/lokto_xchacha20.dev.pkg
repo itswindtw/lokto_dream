@@ -1,0 +1,15 @@
+(version dev)
+
+(build
+ (all_platforms ((dune))))
+
+(depends
+ (all_platforms
+  (ocaml mirage-crypto)))
+
+(source
+ (fetch
+  (url
+   git+https://github.com/itswindtw/lokto_xchacha20#c0926aeeb332122a10e2d2a3d57ee8608a861b17)))
+
+(dev)

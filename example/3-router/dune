@@ -1,0 +1,4 @@
+(executable
+ (name router)
+ (public_name router)
+ (libraries lokto_dream))

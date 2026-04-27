@@ -1,0 +1,4 @@
+(executable
+ (name promise)
+ (public_name promise)
+ (libraries lokto_dream))

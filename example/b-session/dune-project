@@ -1,0 +1,9 @@
+(lang dune 3.22)
+
+(name b-session)
+
+(package
+ (name b-session)
+ (depends
+  ocaml
+  lokto_dream))

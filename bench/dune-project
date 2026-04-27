@@ -1,0 +1,23 @@
+(lang dune 3.22)
+
+(name bench)
+
+(generate_opam_files true)
+
+(package
+ (name bench)
+ (depends
+  ocaml
+  lokto_dream
+  dream
+))
+
+(pin
+  (url "git+https://github.com/camlworks/dream")
+  (package
+    (name dream)))
+
+(pin
+  (url "git+https://github.com/camlworks/dream")
+  (package
+    (name dream-httpaf)))

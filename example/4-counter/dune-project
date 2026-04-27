@@ -1,0 +1,9 @@
+(lang dune 3.22)
+
+(name 4-counter)
+
+(package
+ (name 4-counter)
+ (depends
+  ocaml
+  lokto_dream))
